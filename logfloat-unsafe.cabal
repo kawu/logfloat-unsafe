@@ -1,0 +1,8 @@
+Name:               logfloat-unsafe
+Version:            0.0.1
+Synopsis:           Log-domain arithmetic, unsafe version.
+Author:             Jakub Waszczuk
+Maintainer:         waszczuk.kuba@gmail.com
+Build-type:         Simple
+Exposed-modules:    Data.Number.LogFloat.Unsafe
+Build-Depends:      base

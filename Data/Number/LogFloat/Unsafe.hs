@@ -6,6 +6,8 @@ module Data.Number.LogFloat.Unsafe
 ( LogFloat (..)
 , zero
 , one
+, logFloat
+, fromLogFloat
 ) where
 
 import Prelude hiding (sum, product)
